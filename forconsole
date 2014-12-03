@@ -1,0 +1,6 @@
+client = Twitter:REST:Client.new do |config|
+  config.consumer_key        = "dRbXorvglCtgmhfuoYLGnrs0w"
+  config.consumer_secret     = "cjESeYLNx3e5SEeHsnEREgZRgVY09y5DKpOXpCbdOnVWB3TD6Q"
+  config.access_token        = "17750823-ZkR9vieEo6oVns2L7mPeWvD3cP21yXCpVr6F2EiEG"
+  config.access_token_secret = "CrwJOC5aZtHANa2EZks0mC8ywg61bGt2cgZm6wfKBLu0B"
+end
